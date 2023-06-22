@@ -12,7 +12,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-import CNIOAtomics
+@_implementationOnly import CNIOAtomics
 
 #if os(macOS) || os(iOS) || os(watchOS) || os(tvOS)
 import Darwin

@@ -12,7 +12,7 @@
 //
 //===----------------------------------------------------------------------===//
 
-import CNIOAtomics
+@_implementationOnly import CNIOAtomics
 
 /// The protocol that all types that can be made atomic must conform to.
 ///
